@@ -1,0 +1,48 @@
+PESSOAS
+REGISTA
+Ana
+ana@gmail.com
+Bom dia mundo!
+REGISTA
+Bruno
+bruno@gmail.com
+A trabalhar...
+CONSULTAPESSOA
+Bruno
+CONSULTAPESSOA
+Daniel
+AMIGOS
+Ana
+Bruno
+CONSULTAAMIGOS
+Ana
+CONSULTAAMIGOS
+Bruno
+CONSULTAESTADO
+Ana
+NOVOESTADO
+Ana
+Boa tarde!
+CONSULTAESTADO
+Ana
+CONSULTAESTADO
+Bruno
+CONSULTAESTADO
+Daniel
+NOVOESTADO
+Daniel
+Surfing...
+REGISTA
+Carlos
+carlos@gmail.com
+Bem disposto!
+AMIGOS
+Ana
+Carlos
+AMIGOS
+Ana
+Carlos
+PESSOAS
+CONSULTAAMIGOS
+Ana
+SAIR

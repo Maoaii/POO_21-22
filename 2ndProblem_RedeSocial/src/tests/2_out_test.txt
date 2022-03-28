@@ -1,0 +1,31 @@
+Pessoa registada com sucesso.
+
+Lista de pessoas registadas:
+Luis; luis@gmail.com
+
+Pessoa registada com sucesso.
+
+Lista de pessoas registadas:
+Luis; luis@gmail.com
+Maria; maria@gmail.com
+
+Sem registo.
+
+Pessoa registada.
+
+Amizade criada.
+
+Amizade existente.
+
+Lista de amigos:
+Luis; luis@gmail.com
+
+Lista de amigos:
+Maria; maria@gmail.com
+
+A estudar...
+
+Estado alterado.
+
+Adeus.
+

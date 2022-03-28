@@ -1,0 +1,40 @@
+Rede Social vazia.
+
+Pessoa registada com sucesso.
+
+Lista de pessoas registadas:
+Ze; ze@gmail.com
+
+Pessoa registada com sucesso.
+
+Lista de pessoas registadas:
+Ze; ze@gmail.com
+Maria; maria@gmail.com
+
+Sem registo.
+
+Pessoa registada.
+
+Amizade criada.
+
+Lista de amigos:
+Maria; maria@gmail.com
+
+Com sono
+
+Estado alterado.
+
+Pessoa registada com sucesso.
+
+Amizade criada.
+
+Lista de amigos:
+Maria; maria@gmail.com
+Ambrosio; ambrosio@gmail.com
+
+Amizade inexistente.
+
+Amizade existente.
+
+Adeus.
+

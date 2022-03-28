@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"FriendsBook","l":"FriendsBook"},{"p":"FriendsBook","l":"FriendsBookClass"},{"p":"<Unnamed>","l":"Main"},{"p":"FriendsBook","l":"Person"},{"p":"FriendsBook","l":"PersonClass"},{"p":"FriendsBook","l":"PersonIterator"},{"p":"FriendsBook","l":"PersonIteratorClass"}]

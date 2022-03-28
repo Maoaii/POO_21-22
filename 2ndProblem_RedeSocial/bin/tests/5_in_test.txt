@@ -1,0 +1,29 @@
+PESSOAS
+REGISTA
+Joao
+joao@gmail.com
+Eu sou o Joao!
+REGISTA
+Joao
+joao@gmail.com
+Eu sou o Joaozinho!
+CONSULTAESTADO
+Joao
+CONSULTAPESSOA
+Joao
+CONSULTAAMIGOS
+Joao
+CONSULTAPESSOA
+Joana
+CONSULTAAMIGOS
+Joao
+CONSULTAAMIZADE
+Joao
+Joana
+CONSULTAAMIZADE
+Joana
+Joao
+CONSULTAAMIZADE
+Joana
+Rogerio
+SAIR

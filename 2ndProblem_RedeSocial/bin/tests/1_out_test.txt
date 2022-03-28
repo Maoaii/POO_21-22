@@ -1,0 +1,47 @@
+Rede Social vazia.
+
+Pessoa registada com sucesso.
+
+Pessoa registada com sucesso.
+
+Pessoa registada.
+
+Sem registo.
+
+Amizade criada.
+
+Lista de amigos:
+Bruno; bruno@gmail.com
+
+Lista de amigos:
+Ana; ana@gmail.com
+
+Bom dia mundo!
+
+Estado alterado.
+
+Boa tarde!
+
+A trabalhar...
+
+Sem registo.
+
+Sem registo.
+
+Pessoa registada com sucesso.
+
+Amizade criada.
+
+Amizade existente.
+
+Lista de pessoas registadas:
+Ana; ana@gmail.com
+Bruno; bruno@gmail.com
+Carlos; carlos@gmail.com
+
+Lista de amigos:
+Bruno; bruno@gmail.com
+Carlos; carlos@gmail.com
+
+Adeus.
+
